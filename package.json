@@ -1,0 +1,10 @@
+{
+  "name": "ajmalbot",
+  "version": "1.0.0",
+  "main": "index.js",
+  "dependencies": {
+    "@adiwajshing/baileys": "^4.0.0",
+    "axios": "^1.0.0",
+    "ytdl-core": "^4.0.0"
+  }
+}
